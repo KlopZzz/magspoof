@@ -1,3 +1,11 @@
+# FOR RFID TESTING
+
+
+
+
+
+
+
 # [MagSpoof](http://samy.pl/magspoof/) - credit card/magstripe spoofer
 * Allows you to store all of your credit cards and magstripes in one device
 * Works on traditional magstripe readers **wirelessly** (no NFC/RFID required)
